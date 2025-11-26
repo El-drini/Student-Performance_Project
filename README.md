@@ -26,7 +26,7 @@ End-to-end project to (A) clean & transform student records, (B/C/D) explore & v
 ---
 
 ## Project Structure
-
+```
 FinalProject/
 ├─ data/ # raw CSVs from UCI (student-mat.csv, student-por.csv)
 ├─ artifacts/
@@ -48,6 +48,7 @@ FinalProject/
 │ └─ Slides.pptx
 ├─ requirements.txt
 └─ README.md
+```
 
 ---
 
